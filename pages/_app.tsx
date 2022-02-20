@@ -5,6 +5,7 @@ import Layout from "../components/layout";
 import Head from "next/head";
 
 import { ThirdwebProvider } from "@3rdweb/react";
+import { Toaster } from "react-hot-toast";
 
 export default function MyApp({ Component, pageProps }: AppProps) {
   // mumbai polygon test
@@ -16,6 +17,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
 
   return (
     <>
+      <Toaster />
       <Head>
         <title>{pageProps.title}</title>
       </Head>
