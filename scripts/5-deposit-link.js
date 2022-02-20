@@ -5,7 +5,7 @@ import { sdk } from "./helpers.js";
 
 const main = async() =>{
 
-    const packModuleAddress = '0x49D6995989FDBB4A14591FA2Ee187b757DD5C576';
+    const packModuleAddress = '0x62ebF92414573D7d881C1594539daEEb096aE710';
     const packModule = sdk.getPackModule(packModuleAddress);
 
     console.log("Depositing link...")

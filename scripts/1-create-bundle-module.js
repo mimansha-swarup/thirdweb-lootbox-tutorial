@@ -7,7 +7,7 @@ const main = async() =>{
     console.log('Deploying bundle collection module....')
     
     const bundleModule = await app.deployBundleModule({
-        name:"Lootboc Bundle",
+        name:"Lootbox Bundle",
         sellerFeeBasisPoints: 100,
     });
     

@@ -6,7 +6,7 @@ import { sdk } from "./helpers.js";
 
 const main = async() =>{
 
-    const bundleModuleAddress = '0xC0fd5432ab1693Ded4f3D7ff2Dcfd6fE342744c2';
+    const bundleModuleAddress = '0xBC579F9cCd7D010B76E0E3f99500d9Ea2E9E4B88';
 
     const bundleModule = sdk.getBundleModule(bundleModuleAddress);
 
@@ -53,7 +53,7 @@ const main = async() =>{
             metadata:{
                 name:"Owl",
                 description:"owl in front of multi-dimensional portal  ",
-                image: readFileSync('./assets/neon.jpg'),
+                image: readFileSync('./assets/owl.jpg'),
                 properties: {
                     rarity: "super rare",
                     fanciness: 10,

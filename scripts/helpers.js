@@ -18,7 +18,7 @@ export const sdk = new ThirdwebSDK(
     )
 );
 
-const appAddress = "0x1c33f672F55FA9b6BFfbd5C37ef5Cc218220475b";
+const appAddress = "0xa438abbF4651F9790caD97Cb6b509eEc450eFEab";
 
 export async function getApp(){
     const app = await sdk.getAppModule(appAddress);

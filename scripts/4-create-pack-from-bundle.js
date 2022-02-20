@@ -5,10 +5,10 @@ import { readFileSync } from "fs";
 
 const main = async() =>{
 
-    const bundleModuleAddress = '0xC0fd5432ab1693Ded4f3D7ff2Dcfd6fE342744c2';
+    const bundleModuleAddress = '0xBC579F9cCd7D010B76E0E3f99500d9Ea2E9E4B88';
     const bundleModule = sdk.getBundleModule(bundleModuleAddress);
 
-    const packModuleAddress = '0x49D6995989FDBB4A14591FA2Ee187b757DD5C576';
+    const packModuleAddress = '0x62ebF92414573D7d881C1594539daEEb096aE710';
     const packModule = sdk.getPackModule(packModuleAddress);
 
     console.log("Getting all NFTs from bundle...")

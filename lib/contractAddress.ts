@@ -1,2 +1,2 @@
-export const bundleAddress = '0xC0fd5432ab1693Ded4f3D7ff2Dcfd6fE342744c2';
-export const packAddress = '0x49D6995989FDBB4A14591FA2Ee187b757DD5C576';
+export const bundleAddress = '0xBC579F9cCd7D010B76E0E3f99500d9Ea2E9E4B88';
+export const packAddress = '0x62ebF92414573D7d881C1594539daEEb096aE710';
