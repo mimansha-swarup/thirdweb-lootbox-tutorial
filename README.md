@@ -3,6 +3,22 @@
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 ## Preview
+### Screens
+#### wallet not connected
+![image](https://user-images.githubusercontent.com/69811810/154831817-15c74f80-f79d-4626-92e6-6a2c61087f8e.png)
+
+#### wallet connected
+![image](https://user-images.githubusercontent.com/69811810/154831850-36ebf21d-f257-413c-9cd0-e5703a289bcd.png)
+
+#### winner lounge
+![image](https://user-images.githubusercontent.com/69811810/154831902-5baf9604-3b50-40ab-a44c-02feb035bbb4.png)
+
+
+#### winner lounge not won anything
+![image](https://user-images.githubusercontent.com/69811810/154831870-0ad95a36-a2fa-4e68-9b7e-08710ee94178.png)
+
+
+
 
 Preview the example live on [StackBlitz](http://stackblitz.com/):
 
